@@ -1,0 +1,28 @@
+name: Hope For Haiti
+favicon: null
+layout_spectrum: 0.1398973639588803
+typography_spectrum: 0.4588531709741801
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.05072040995582938
+  lightness: 0.6117239999584854
+  saturation: 0.1379395849071443
+  rhythmicContrast: 0.21664145472459495
+purpose: []
